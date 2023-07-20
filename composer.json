@@ -1,5 +1,5 @@
 {
-    "name": "proai/eloquent-versioning",
+    "name": "tsacks/eloquent-versioning",
     "description": "An extension for the Eloquent ORM to support versioning.",
     "keywords": [
         "laravel",
